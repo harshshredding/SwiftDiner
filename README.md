@@ -1,2 +1,2 @@
 # SwiftDiner
-This app will help increase profit through increase in traffic for restaurants through schemes of discounts.
+This app will help increase profits for restaurants using schemes of discounts.
